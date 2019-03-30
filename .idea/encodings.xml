@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/alipay/api/AlipayMobilePublicMultiMediaDownloadResponse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/alipay/api/Decryptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/alipay/api/DefaultDecryptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/alipay/api/DefaultEncryptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/alipay/api/DefaultSignChecker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/alipay/api/DefaultSigner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/alipay/api/Encryptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/alipay/api/SignChecker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/alipay/api/Signer.java" charset="UTF-8" />
+  </component>
+</project>
